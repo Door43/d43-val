@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[val:home|Door43 (val)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-val|d43-val repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-val/archive/master.zip|d43-val.zip]]
+
+**Recent Changes**
+{{changes>ns = val}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/val|Ethnologue data]]
+
